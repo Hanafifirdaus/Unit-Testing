@@ -1,2 +1,1 @@
-# Unit testing Python Dari Oka AAAAAAAAAA
-OOOKKKKK
+# Unit testing Python hasil clone
